@@ -4,11 +4,6 @@ Welcome to my personal portfolio! This website showcases my web development proj
 
 ---
 
-## 🔗 Live Website
-[Visit My Portfolio](#)  
-
----
-
 ## 🖥️ About Me
 I am a passionate **web developer** specializing in **front-end** development with HTML, CSS, JavaScript, and React. I also have experience in **back-end** technologies like Node.js, PHP, MySQL, and MongoDB. I enjoy building full-stack projects, learning new tools, and tackling challenging web development tasks.  
 
@@ -29,15 +24,8 @@ Here are some of the projects featured on my portfolio:
 
 ## 🛠️ Skills
 - **Front-End:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Back-End:** Node.js, PHP, MySQL, MongoDB  
+- **Back-End:**  PHP, MySQL, MongoDB  
 - **Other Tools:** Git, GitHub, VS Code  
-
----
-
-## 📧 Contact
-You can reach me via the contact form on my portfolio website or directly via email.  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **Portfolio:** [Link to live site](#)  
 
 ---
 
