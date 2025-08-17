@@ -1,34 +1,58 @@
-# Varsha Jethwa - Portfolio
+# Varsha Jethwa Portfolio Website
 
-Welcome to my personal portfolio! This website showcases my web development projects, skills, and provides a way to contact me or download my resume.  
-
----
-
-## 🖥️ About Me
-I am a passionate **web developer** specializing in **front-end** development with HTML, CSS, JavaScript, and React. I also have experience in **back-end** technologies like Node.js, PHP, MySQL, and MongoDB. I enjoy building full-stack projects, learning new tools, and tackling challenging web development tasks.  
+Welcome to my portfolio website! This project was part of my internship Task 4, showcasing my web development skills through a responsive and interactive portfolio site.
 
 ---
 
-## 🚀 Projects
-Here are some of the projects featured on my portfolio:
+## 🖥️ Features
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Land Resources Website | Website for land resources management | [GitHub](https://github.com/vjethwa2005/land_resources_website.git) |
-| Beauty Salon Website | Salon appointment management system | [GitHub](https://github.com/vjethwa2005/BeautySalonAppointmentManagement.git) |
-| Stopwatch Timer | Web-based stopwatch timer | [GitHub](https://github.com/vjethwa2005/PRODIGY_WD_02.git) |
-| Tic Tac Toe Game | Classic Tic Tac Toe game in JavaScript | [GitHub](https://github.com/vjethwa2005/PRODIGY_WD_03.git) |
-| Password Generator | Random password generator using React | [GitHub](https://github.com/vjethwa2005/react/tree/main/05passwordGenerator) |
+- **Responsive Design**: Works on desktop, tablet, and mobile.
+- **Hero Section**: Introduction with a call-to-action button and resume download.
+- **About Section**: Highlights my skills and technologies with floating icons.
+- **Projects Section**: Interactive project cards with hover effects and GitHub links.
+- **Contact Section**: Contact form integrated with Formspree.
+- **Download Resume**: Direct download button for my resume.
 
 ---
 
-## 🛠️ Skills
-- **Front-End:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Back-End:**  PHP, MySQL, MongoDB  
-- **Other Tools:** Git, GitHub, VS Code  
+## ⚡ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Google Fonts (Poppins)  
+- Formspree for contact form  
+
+---
+## 💻 Projects
+
+| Project | Screenshot | GitHub Link |
+|---------|------------|-------------|
+| Land Resources Website | ![project1](./project1.png) | [View Project](https://github.com/vjethwa2005/land_resources_website.git) |
+| Beauty Salon Website | ![project2](./project2.png) | [View Project](https://github.com/vjethwa2005/BeautySalonAppointmentManagement.git) |
+| Stopwatch Timer | ![project3](./project3.png) | [View Project](https://github.com/vjethwa2005/PRODIGY_WD_02.git) |
+| Tic Tac Toe Game | ![project4](./project4.png) | [View Project](https://github.com/vjethwa2005/PRODIGY_WD_03.git) |
+| Password Generator | ![project5](./project5.png) | [View Project](https://github.com/vjethwa2005/react/tree/main/05passwordGenerator) |
+
+---
+
+## 📧 Contact
+
+You can contact me using the form in the **Contact Section** of the website directly.
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)  
+- GitHub: [vjethwa2005](https://github.com/vjethwa2005)
 
 ---
 
 ## 📄 Resume
-Download my resume directly from the portfolio:  
-- [Download Resume](./Varsha_Jethwa.pdf)  
+
+Click the **Download Resume** button on the website or [download here](./Varsha_Jethwa.pdf).
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+```bash
+git clone https://github.com/vjethwa2005/portfolio.git
+
