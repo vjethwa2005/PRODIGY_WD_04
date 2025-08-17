@@ -319,15 +319,21 @@ nav a:hover {
 }
 
 .project-overlay .btn {
-  margin-top: 5px;
-  padding: 4px 10px;
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  padding: 0px 2px;
   border-radius: 12px;
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-decoration: none;
   background-color: transparent;
-  border: 1px solid var(--button-color);
+  border: 3px solid var(--button-color);
   color: white;
+  cursor: pointer;
 }
+
 
 .contact {
   background-image: linear-gradient(to right, var(--button-color), var(--background-color) 40%);
